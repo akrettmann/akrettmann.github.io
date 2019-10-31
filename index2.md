@@ -10,7 +10,7 @@ Welcome to my page!
 I am an ESRC funded PhD student at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) at the University of Leeds. 
 My research project focuses on utilising artificial intelligence in overcoming the value-action gap in sustainable consumption for mainstream consumers. 
 
-![Anna K. Krettmann](aac_IMG_2124.jpg)
+![Anna K. Krettmann](aac_IMG_2124.jpg =250x)
  
 ## About Me
 I graduated with an MSc in International Management from King’s College London and previously obtained a BSc (Hons) in International Business from the University of Roehampton, London. Following my studies, I working in the private sector, first as a Buying Manager for Lidl UK and most recently as an Associate Category Manager at Walmart Canada. 
