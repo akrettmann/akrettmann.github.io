@@ -10,6 +10,8 @@ Welcome to my page!
 I am an ESRC funded PhD student at the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/) at the University of Leeds. 
 My research project focuses on utilising artificial intelligence in overcoming the value-action gap in sustainable consumption for mainstream consumers. 
 
+<img src="aac_IMG_2124.jpg" width="250">
+
 ![Anna K. Krettmann](aac_IMG_2124.jpg =250x)
  
 ## About Me
