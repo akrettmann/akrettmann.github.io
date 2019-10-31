@@ -1,11 +1,3 @@
----
-title: Test
----
-
-
-Hello World
-
-
 ## Home
 Anna K. Krettmann 
 I am an ESRC funded PhD student at the Leeds Institute for Data Analytics at the University of Leeds. 
