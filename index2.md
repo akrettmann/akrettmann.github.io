@@ -16,7 +16,9 @@ Welcome to my page!
 I graduated with an MSc in International Management from King’s College London and previously obtained a BSc (Hons) in International Business from the University of Roehampton, London. Following my studies, I working in the private sector, first as a Buying Manager for Lidl UK and most recently as an Associate Category Manager at Walmart Canada. 
  
 ## Projects
-Agent Based Modelling – Assignment 1: 
+
+Agent Based Modelling – Assignment 1:
+
 As part of the Programming for Social Sciences course [(GEOG5995)] (https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/), this agent based model is simulating sheep within an environment. They are able to move, eat and share food with neighbours. 
 The code can be found on my Github repository. 
  
