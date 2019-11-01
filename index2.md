@@ -19,7 +19,7 @@ I graduated with an MSc in International Management from [King’s College Londo
 
 Agent Based Modelling – Assignment 1:
 
-As part of the Programming for Social Sciences course ([GEOG5995](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/)), this agent based model is simulating sheep within an environment. They are able to move, eat and share food with neighbours. 
+As part of the Programming for Social Science module ([GEOG5995](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/)), this agent based model is simulating sheep within an environment. They are able to move, eat and share food with neighbours. 
 The code can be found on my [Github repository](https://github.com/akrettmann/Geog5995_assignment1_practicals_final). 
  
 ## [Contact Me](contactme.md) 
