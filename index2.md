@@ -23,7 +23,7 @@ As part of the Programming for Social Sciences course ([GEOG5995](https://www.ge
 The code can be found on my [Github repository](https://github.com/akrettmann/Geog5995_assignment1_practicals_final). 
  
  
-## Contact Me 
+## [Contact Me](https://github.com/akrettmann/akrettmann.github.io/blob/master/contactme.md) 
 Email address: gyak@leeds.ac.uk
 
 Address: 
